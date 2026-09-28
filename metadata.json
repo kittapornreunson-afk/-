@@ -1,0 +1,6 @@
+{
+  "name": "ระบบตรวจสุขภาพช่องปาก โรงเรียนวัดกรมธรรม์",
+  "description": "ระบบบันทึกและแสดงผลการตรวจฟันนักเรียน โรงเรียนวัดกรมธรรม์ พร้อมระบบสิทธิการรักษา โดยนักศึกษาทันตสาธารณสุข",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
